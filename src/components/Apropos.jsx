@@ -5,6 +5,7 @@ export default function Apropos() {
     <>
       <div>Section a propos</div>
       <div>Section a propos</div>
+      <div>Section a propos</div>
     </>
   );
 }
